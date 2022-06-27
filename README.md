@@ -7,7 +7,6 @@ The goal is to systematize and consolidate knowledge of algorithms.
 ---
 ## Table of contents:
 
-<br/>
 Well-known algorithms 
 
 <br/>
@@ -37,8 +36,8 @@ Codewars
 
     #unstable sorting
     
-* Quick sorting with built-in methods
-* Pure quick sorting 
+* [Quick sorting with built-in methods](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort.js)
+* [Pure quick sorting](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort2.js)
 3. Merge sort
 
 4. Selection sort

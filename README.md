@@ -4,14 +4,13 @@ In this repository you can find algorithms in the pure JavaScript language.
 
 The goal is to systematize and consolidate knowledge of algorithms.
 
----
 ## Table of contents:
 
 [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
 
 <br/>
 
-[Computational complexity]()
+[Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity)
 
 <br/>
 
@@ -21,7 +20,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 [Codewars]()
 
----
+
 
 ## Well-known algorithms 
 <br/>
@@ -29,6 +28,10 @@ The goal is to systematize and consolidate knowledge of algorithms.
 ### Sorting algorithms:
 
 1. Bubble sort
+
+    #[adaptive sort](https://en.wikipedia.org/wiki/Adaptive_sort)
+
+* [Simple bubble sort](https://github.com/pavlokolodka/algorithms/blob/6049bde1278de07c39310e66ff751a9f268419e2/sorting/bubblesort.js)    
 
 2. Quicksort
 
@@ -56,7 +59,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 ### Permutations:
 
 1. Fisher–Yates shuffle (Knuth)
----
+
 ## Computational complexity
 
 <br/>
@@ -80,7 +83,7 @@ In most cases, [big O notation](https://en.wikipedia.org/wiki/Big_O_notation) is
 
 <br/>
 
-| Denomination  | Bound                                                         | Growth   |
+| Designation   | Bound                                                         | Growth   |
 | ------------- |-------------                                                  | -------------|
 | Θ             | Lower and upper bounds, accurate estimate                     | Equal |
 | О             | Upper bound, but this bound might or might not be a supremum  |  Less or equal |

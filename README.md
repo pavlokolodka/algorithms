@@ -30,7 +30,8 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
     #[adaptive sort](https://en.wikipedia.org/wiki/Adaptive_sort)
 
-* [Simple bubble sort](https://github.com/pavlokolodka/algorithms/blob/6049bde1278de07c39310e66ff751a9f268419e2/sorting/bubblesort.js)    
+* [Simple bubble sort](https://github.com/pavlokolodka/algorithms/blob/6049bde1278de07c39310e66ff751a9f268419e2/sorting/bubblesort.js)
+* [Optimized bubble sort](https://github.com/pavlokolodka/algorithms/blob/856a3379e7138605040f304288541c32805a3b0f/sorting/bubblesort2.js)    
 
 2. Quicksort
 
@@ -95,7 +96,7 @@ Let f and g be functions from positive integers to positive integers. Then:
 
 <br/>
 
-"Ο(f(n))" implies that as the amount of input data n increases, the running time of the algorithm will increase no faster than some constant multiplied by f(n).
+> "Ο(f(n))" implies that as the amount of input data n increases, the running time of the algorithm will increase no faster than some constant multiplied by f(n).
 
 <br/>
 
@@ -103,8 +104,7 @@ Let f and g be functions from positive integers to positive integers. Then:
 
 Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
 
-<br/>
-
+---
 ### Common orders of growth
 
 <br/>

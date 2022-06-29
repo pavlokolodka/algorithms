@@ -23,7 +23,6 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 
 ## Well-known algorithms 
-<br/>
 
 ### Sorting algorithms:
 
@@ -79,17 +78,20 @@ Hamiltonian path problem, the traveling salesman problem.
 [Asymptotic analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) is a complexity analysis for input data that tends to infinity. It is expressed in notations (O(big O), Ω(omega), Θ(theta)). 
 In most cases, [big O notation](https://en.wikipedia.org/wiki/Big_O_notation) is used, which defines the worst case (upper limit from function growth) and does not take into account constants.
 
-### Description of the kinds of asymptotic growth rates.
+---
+### Description of the kinds of bounds on asymptotic growth rates.
 
 <br/>
 
-| Designation   | Bound                                                         | Growth   |
+Let f and g be functions from positive integers to positive integers. Then:
+
+| Designation   | Bound                                                         | Efficiency compared to the real complexity of the algorithm   |
 | ------------- |-------------                                                  | -------------|
-| Θ             | Lower and upper bounds, accurate estimate                     | Equal |
-| О             | Upper bound, but this bound might or might not be a supremum  |  Less or equal |
-| o             | Upper bound, not an accurate estimate                         |    Less |
-| Ω             | Lower bound, but this bound might or might not be a infimum   |   Greater or equal |
-| ω             | Lower bound, not an accurate estimate                         |    Greater |
+| Θ; f(n) = Θ(g(n)), if there exists a positive integer n0 and a positive constants c1 > 0 and c2 > 0, such that c1 * g(n) ≤ f(n) ≤ c2 * g(n) ∀ n>n0               | Lower and upper bounds, accurate estimate                     | Equal |
+| О; f(n) = О(g(n)), if there exists a positive integer n0 and a positive constant c > 0, such that f(n)≤cg(n) ∀ n≥n0           | Upper bound, but this bound might or might not be a supremum  |  Less or equal |
+| o; f(n) = o(g(n)), if there exists a positive constant c > 0, such that f(n)≤cg(n) ∀ but perhaps finitely many n             | Upper bound, not an accurate estimate                         |    Less |
+| Ω; f(n) = Ω(g(n)), if there exists a positive integer n0 and a positive constant c > 0, such that cg(n)≤f(n) ∀ n>n0               | Lower bound, but this bound might or might not be a infimum   |   Greater or equal |
+| ω, f(n) = ω(g(n)), if there exists a positive constant c > 0, such that cg(n)≤f(n) ∀ but perhaps finitely many n             | Lower bound, not an accurate estimate                         |    Greater |
 
 <br/>
 
@@ -100,3 +102,23 @@ In most cases, [big O notation](https://en.wikipedia.org/wiki/Big_O_notation) is
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--NZrROxqO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4c3l6pys5u3v1a6s9g8.png "Big-O Complexity Chart")
 
 Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
+
+<br/>
+
+### Common orders of growth
+
+<br/>
+
+The order of growth of an algorithm is a rough estimate of the time/memory required to execute a computer program as the size of the input data changes. <br/>
+Growth order ignores the constant factor needed for fixed operations and focuses on operations that increase in proportion to the size of the input data. 
+
+|   Function|    Type of Growth |  Example   |
+|---        |----               |-----|
+|   1       |    constant  |Finding the median value in a sorted array of number         |
+|   n       |      linear  |Finding the smallest or largest item in an unsorted array|
+|   log n   |  logarithmic |Binary search         |
+|   n log n | linearithmic |Fast Fourier transform|
+|   n^2     |     quadratic|Bubble sort|
+|   n^3     |    cubic     |Naive multiplication of two n * n matrices|
+|   2^poly(n)| exponential |Solving matrix chain multiplication via brute-force search|
+|   n!      |    factorial |Solving the traveling salesman problem via brute-force search|

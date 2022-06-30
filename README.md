@@ -122,3 +122,249 @@ Growth order ignores the constant factor needed for fixed operations and focuses
 |   n^3     |    cubic     |Naive multiplication of two n * n matrices|
 |   2^poly(n)| exponential |Solving matrix chain multiplication via brute-force search|
 |   n!      |    factorial |Solving the traveling salesman problem via brute-force search|
+
+---
+
+### Computational complexity of algorithms
+
+#### Sorting algorithms 
+	
+<table>
+  <tr>
+    <td colspan="1">
+      Algorithm
+    </td>
+    <td colspan="3">
+      Time complexity
+    </td>
+    <td colspan="1">
+      Space complexity
+    </td>
+  </tr>
+  <tr>
+    <td>
+      *
+    </td>
+    <td>
+      Best
+    </td>
+    <td>
+      Average
+    </td>
+    <td>
+      Worst
+    </td>
+    <td>
+      Worst
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Quicksort
+    </td>
+    <td>
+      Ω(n log(n))
+    </td>
+    <td>
+      Θ(n log(n))
+    </td>
+    <td>
+      O(n^2)
+    </td>
+    <td>
+      O(log(n))
+    </td>
+     <tr>
+    <td>
+      Mergesort
+    </td>
+    <td>
+      Ω(n log(n))
+    </td>
+    <td>
+      Θ(n log(n))
+    </td>
+    <td>
+      O(n log(n))
+    </td>
+    <td>
+      O(n)
+    </td>
+   <tr>
+    <td>
+      Timsort
+    </td>
+    <td>
+      Ω(n)
+    </td>
+    <td>
+      Θ(n log(n))
+    </td>
+    <td>
+      O(n log(n))
+    </td>
+    <td>
+      O(n)
+    </td>
+    <tr>
+    <td>
+      Heapsort
+    </td>
+    <td>
+      Ω(n)
+    </td>
+    <td>
+      Θ(n log(n))
+    </td>
+    <td>
+      O(n log(n))
+    </td>
+    <td>
+      O(n)
+    </td>
+    <tr>
+    <td>
+      Bubble Sort
+    </td>
+    <td>
+      Ω(n)
+    </td>
+    <td>
+      Θ(n^2)
+    </td>
+    <td>
+      O(n^2)
+    </td>
+    <td>
+      O(1)
+    </td>
+   <tr>
+    <td>
+      Insertion Sort
+    </td>
+    <td>
+      Ω(n)
+    </td>
+    <td>
+      Θ(n^2)
+    </td>
+    <td>
+      O(n^2)
+    </td>
+    <td>
+      O(1)
+    </td>
+     <tr>
+    <td>
+      Selection Sort	
+    </td>
+    <td>
+      Ω(n^2)
+    </td>
+    <td>
+      Θ(n^2)
+    </td>
+    <td>
+      O(n^2)
+    </td>
+    <td>
+      O(1)
+    </td>
+    <tr>
+    <td>
+      Tree Sort	
+    </td>
+    <td>
+      Ω(n log(n))
+    </td>
+    <td>
+      Θ(n log(n))
+    </td>
+    <td>
+      O(n^2)
+    </td>
+    <td>
+      O(n)
+    </td>
+    <tr>
+    <td>
+      Shell Sort
+    </td>
+    <td>
+      Ω(n log(n))
+    </td>
+    <td>
+      depends on gap sequence/Θ(n(log(n))^2)
+    </td>
+    <td>
+      depends on gap sequence: O(n(log(n))^2) or O(n^2)
+    </td>
+    <td>
+      O(n)
+    </td>
+      <tr>
+    <td>
+      Bucket Sort
+    </td>
+    <td>
+      Ω(n+k)
+    </td>
+    <td>
+      Θ(n+k)
+    </td>
+    <td>
+      O(n^2)
+    </td>
+    <td>
+      O(n)
+    </td>
+       <tr>
+    <td>
+      Radix Sort
+    </td>
+    <td>
+      Ω(nk)
+    </td>
+    <td>
+      Θ(nk)
+    </td>
+    <td>
+      O(nk)
+    </td>
+    <td>
+      O(n+k)
+    </td>
+     <tr>
+    <td>
+      Counting Sort
+    </td>
+    <td>
+      Ω(n+k)
+    </td>
+    <td>
+      Θ(n+k)
+    </td>
+    <td>
+      O(n+k)
+    </td>
+    <td>
+      O(k)
+    </td>
+         <tr>
+    <td>
+      Counting Sort
+    </td>
+    <td>
+      Ω(n)
+    </td>
+    <td>
+      Θ(n log(n))
+    </td>
+    <td>
+      O(n log(n))
+    </td>
+    <td>
+      O(n)
+    </td>
+    
+</table>

@@ -6,19 +6,28 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 ## Table of contents:
 
-[Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
+### [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
+
+1. [Sorting algorithms](https://github.com/pavlokolodka/algorithms#sorting-algorithms)
+2. [Search algorithms](https://github.com/pavlokolodka/algorithms#search-algorithm)
+3. [Graph algorithms](https://github.com/pavlokolodka/algorithms#graph-algorithms)
+4. [Permutations](https://github.com/pavlokolodka/algorithms#permutation-algorithms)
 
 <br/>
 
-[Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity)
+### [Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity)
+
+1. [Description of the kinds of bounds on asymptotic growth rates](https://github.com/pavlokolodka/algorithms#description-of-the-kinds-of-bounds-on-asymptotic-growth-rates)
+2. [Common orders of growth](https://github.com/pavlokolodka/algorithms#common-orders-of-growth)
+3. [Computational complexity of algorithms](https://github.com/pavlokolodka/algorithms#computational-complexity-of-algorithms)
 
 <br/>
 
-[Leetcode]()
+### [Leetcode]()
 
 <br/>
 
-[Codewars]()
+### [Codewars]()
 
 
 
@@ -49,7 +58,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 6. Shellsort
 
-### Search algorithm
+### Search algorithms:
 
 1. Binary search
 
@@ -62,7 +71,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 3. Dijkstra
 4. Bellman Ford's algorithm
 
-### Permutations:
+### Permutation algorithms:
 
 1. Fisher–Yates shuffle (Knuth)
 
@@ -86,7 +95,7 @@ Hamiltonian path problem, the traveling salesman problem.
 In most cases, [big O notation](https://en.wikipedia.org/wiki/Big_O_notation) is used, which defines the worst case (upper limit from function growth) and does not take into account constants.
 
 ---
-### Description of the kinds of bounds on asymptotic growth rates.
+### Description of the kinds of bounds on asymptotic growth rates
 
 <br/>
 

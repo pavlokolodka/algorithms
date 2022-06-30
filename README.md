@@ -49,6 +49,12 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 6. Shellsort
 
+### Search algorithm
+
+1. Binary search
+
+* [Iterative binary search](https://github.com/pavlokolodka/algorithms/blob/10357bd558bb300a9f998ba6f3c463db5d920bea/search/binarysearch.js)
+
 ### Graph algorithms:
 
 1. Breadth First Search (BFS)
@@ -128,7 +134,7 @@ Growth order ignores the constant factor needed for fixed operations and focuses
 ### Computational complexity of algorithms
 
 #### Sorting algorithms 
-	
+
 <table>
   <tr>
     <td colspan="1">

@@ -6,16 +6,16 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 ## Table of contents:
 
-### [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
+#### [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
 
 1. [Sorting algorithms](https://github.com/pavlokolodka/algorithms#sorting-algorithms)
 2. [Search algorithms](https://github.com/pavlokolodka/algorithms#search-algorithm)
 3. [Graph algorithms](https://github.com/pavlokolodka/algorithms#graph-algorithms)
-4. [Permutations](https://github.com/pavlokolodka/algorithms#permutation-algorithms)
+4. [Permutation algorithms](https://github.com/pavlokolodka/algorithms#permutation-algorithms)
 
 <br/>
 
-### [Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity)
+#### [Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity)
 
 1. [Description of the kinds of bounds on asymptotic growth rates](https://github.com/pavlokolodka/algorithms#description-of-the-kinds-of-bounds-on-asymptotic-growth-rates)
 2. [Common orders of growth](https://github.com/pavlokolodka/algorithms#common-orders-of-growth)
@@ -23,11 +23,11 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 <br/>
 
-### [Leetcode]()
+#### [Leetcode]()
 
 <br/>
 
-### [Codewars]()
+#### [Codewars]()
 
 
 
@@ -63,6 +63,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 1. Binary search
 
 * [Iterative binary search](https://github.com/pavlokolodka/algorithms/blob/10357bd558bb300a9f998ba6f3c463db5d920bea/search/binarysearch.js)
+* [Recursive binary search](https://github.com/pavlokolodka/algorithms/blob/fff8d4558d94f8a156402e9f77f8f3d0b7b39afe/search/binarysearch2.js)
 
 ### Graph algorithms:
 

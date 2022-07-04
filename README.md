@@ -9,9 +9,10 @@ The goal is to systematize and consolidate knowledge of algorithms.
 #### [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
 
 1. [Sorting algorithms](https://github.com/pavlokolodka/algorithms#sorting-algorithms)
-2. [Search algorithms](https://github.com/pavlokolodka/algorithms#search-algorithm)
+2. [Search algorithms](https://github.com/pavlokolodka/algorithms#search-algorithms)
 3. [Graph algorithms](https://github.com/pavlokolodka/algorithms#graph-algorithms)
 4. [Permutation algorithms](https://github.com/pavlokolodka/algorithms#permutation-algorithms)
+5. [Various algorithms](https://github.com/pavlokolodka/algorithms#various-algorithms)
 
 <br/>
 
@@ -75,6 +76,10 @@ The goal is to systematize and consolidate knowledge of algorithms.
 ### Permutation algorithms:
 
 1. Fisher–Yates shuffle (Knuth)
+
+### Various algorithms
+
+1. [Fizz Buzz](https://github.com/pavlokolodka/algorithms/blob/3c6ea38001171683e3ce4fa70b9e227a25177e47/miscellaneous/fizzbuzz.js)
 
 ## Computational complexity
 

@@ -65,6 +65,8 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 * [Iterative binary search](https://github.com/pavlokolodka/algorithms/blob/10357bd558bb300a9f998ba6f3c463db5d920bea/search/binarysearch.js)
 * [Recursive binary search](https://github.com/pavlokolodka/algorithms/blob/fff8d4558d94f8a156402e9f77f8f3d0b7b39afe/search/binarysearch2.js)
+* [Find largest element in an array](https://github.com/pavlokolodka/algorithms/blob/155c845932d061e0bb8e95604b702399a1241903/search/largest-element.js)
+
 
 ### Graph algorithms:
 

@@ -9,7 +9,6 @@
 *@param {array} array Input array
 *@returns {element} Maximum element
 */
-
 function maxElement(array) {
   let max = array[0];
 

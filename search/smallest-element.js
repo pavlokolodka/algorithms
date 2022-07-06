@@ -9,8 +9,7 @@
 *@param {array} array Input array
 *@returns {element} Minimum element
 */
-
-function maxElement(array) {
+function minElement(array) {
   let min = array[0];
 
   for (let i = 1; i < array.length; i++) {

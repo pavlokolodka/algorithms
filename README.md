@@ -67,6 +67,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 * [Recursive binary search](https://github.com/pavlokolodka/algorithms/blob/fff8d4558d94f8a156402e9f77f8f3d0b7b39afe/search/binarysearch2.js)
 * [Find largest element in an array](https://github.com/pavlokolodka/algorithms/blob/155c845932d061e0bb8e95604b702399a1241903/search/largest-element.js)
 * [Find smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/f26e426e2af52398e0f5d0260f73438ac311c763/search/smallest-element.js)
+* [Find second smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/f26e426e2af52398e0f5d0260f73438ac311c763/search/smallest-element.js)
 
 
 ### Graph algorithms:

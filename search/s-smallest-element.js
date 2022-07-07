@@ -1,4 +1,4 @@
-// Title: Smallest element in an array
+// Title: Second smallest element in an array
 // Complexity: Time: O(n)
 //             Space: O(1)
 // Hint: Create variables first and second and initialize them with the first element of the array.

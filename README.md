@@ -65,9 +65,11 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 * [Iterative binary search](https://github.com/pavlokolodka/algorithms/blob/10357bd558bb300a9f998ba6f3c463db5d920bea/search/binarysearch.js)
 * [Recursive binary search](https://github.com/pavlokolodka/algorithms/blob/fff8d4558d94f8a156402e9f77f8f3d0b7b39afe/search/binarysearch2.js)
+2. Largest & smallest element in an array
 * [Find largest element in an array](https://github.com/pavlokolodka/algorithms/blob/155c845932d061e0bb8e95604b702399a1241903/search/largest-element.js)
-* [Find smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/f26e426e2af52398e0f5d0260f73438ac311c763/search/smallest-element.js)
-* [Find second smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/f26e426e2af52398e0f5d0260f73438ac311c763/search/smallest-element.js)
+* [Find smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/37642a07285e8034a8a6e9a40ac5c3dca52e058b/search/smallest-element.js)
+3. Second largest & smallest element in an array
+* [Find second smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/37642a07285e8034a8a6e9a40ac5c3dca52e058b/search/s-smallest-element.js)
 
 
 ### Graph algorithms:

@@ -1,6 +1,6 @@
 # About
 
-In this repository you can find algorithms in the pure JavaScript language.
+In this repository you can find algorithms & data structures in the pure JavaScript language.
 
 The goal is to systematize and consolidate knowledge of algorithms.
 
@@ -69,6 +69,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 * [Find largest element in an array](https://github.com/pavlokolodka/algorithms/blob/155c845932d061e0bb8e95604b702399a1241903/search/largest-element.js)
 * [Find smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/37642a07285e8034a8a6e9a40ac5c3dca52e058b/search/smallest-element.js)
 3. Second largest & smallest element in an array
+* [Find second largest element in an array](https://github.com/pavlokolodka/algorithms/blob/b1bb0311eefd957834b448c44155ca0bd629ad0f/search/s-largest-element.js)
 * [Find second smallest element in an array](https://github.com/pavlokolodka/algorithms/blob/37642a07285e8034a8a6e9a40ac5c3dca52e058b/search/s-smallest-element.js)
 
 

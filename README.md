@@ -38,51 +38,51 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 1. Bubble sort
 
-    #[adaptive sort](https://en.wikipedia.org/wiki/Adaptive_sort)
+    [#adaptive sort](https://en.wikipedia.org/wiki/Adaptive_sort)
 
-    #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 * [Simple bubble sort](https://github.com/pavlokolodka/algorithms/blob/6049bde1278de07c39310e66ff751a9f268419e2/sorting/bubblesort.js)
 * [Optimized bubble sort](https://github.com/pavlokolodka/algorithms/blob/856a3379e7138605040f304288541c32805a3b0f/sorting/bubblesort2.js)    
 
 2. Quicksort
 
-    #[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)
+    [#in-place](https://en.wikipedia.org/wiki/In-place_algorithm)
 
-    #[unstable sorting](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
+    [#unstable sorting](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
     
-    #[divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
+    [#divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
 
-    #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
     
 * [Quick sorting with built-in methods](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort.js)
 * [Pure quick sorting](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort2.js)
 3. Merge sort
 
-    #[divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
+    [#divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
 
-    #[stable sorting](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
+    [#stable sorting](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
 
-    #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 * [Merge sort](https://github.com/pavlokolodka/algorithms/blob/debf9a1ce052411377e5af28b6124bb5b23ceb78/sorting/mergesort.js)
 
 
 4. Selection sort
 
-   #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+   [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 5. Heapsort
 
-    #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 6. Shellsort
 
-   #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+   [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 7. Insertion sort  
 
-     #[comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 ### Search algorithms:
 
 1. Binary search

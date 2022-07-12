@@ -126,7 +126,9 @@ Roughly speaking, these are complex problems that take a very long time to solve
 Examples:
 Hamiltonian path problem, the traveling salesman problem.
 
-[Time complexity](https://en.wikipedia.org/wiki/Time_complexity) - complexity that is determined from the input data determining the number of operations and equal to the algorithm's running time with the given input data. The time complexity of an algorithm is usually expressed using asymptotic analysis. 
+[Time complexity](https://en.wikipedia.org/wiki/Time_complexity) - complexity that is defined from the input data determining the number of operations and equal to the algorithm's running time with the given input data. The time complexity of an algorithm is usually expressed using asymptotic analysis. 
+
+[Space complexity](https://en.wikipedia.org/wiki/Space_complexity) is the amount of memory space required to solve an instance of the computational problem as a function of characteristics of the input. In other words, it is the memory required by an algorithm until it executes completely. Similar to time complexity, space complexity is often expressed asymptotically in big O notation.
 
 [Asymptotic analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) is a complexity analysis for input data that tends to infinity. It is expressed in notations (O(big O), Ω(omega), Θ(theta)). 
 In most cases, [big O notation](https://en.wikipedia.org/wiki/Big_O_notation) is used, which defines the worst case (upper limit from function growth) and does not take into account constants.

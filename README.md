@@ -6,9 +6,24 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 ## Table of contents:
 
-#### [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms)
+#### [Well-known algorithms](https://github.com/pavlokolodka/algorithms#well-known-algorithms-1)
 
 1. [Sorting algorithms](https://github.com/pavlokolodka/algorithms#sorting-algorithms)
+
+1.1 [Bubble sort](https://github.com/pavlokolodka/algorithms#bubble-sort)
+
+1.2 [Quicksort](https://github.com/pavlokolodka/algorithms#quicksort)
+
+1.3 [Mergesort](https://github.com/pavlokolodka/algorithms#merge-sort)
+
+1.4 [Selection sort](https://github.com/pavlokolodka/algorithms#selection-sort)
+
+1.5 [Heapsort](https://github.com/pavlokolodka/algorithms#heapsort)
+
+1.6 [Shellsort](https://github.com/pavlokolodka/algorithms#shellsort)
+
+1.7 [Insertion sort](https://github.com/pavlokolodka/algorithms#insertion-sort)
+
 2. [Search algorithms](https://github.com/pavlokolodka/algorithms#search-algorithms)
 3. [Graph algorithms](https://github.com/pavlokolodka/algorithms#graph-algorithms)
 4. [Permutation algorithms](https://github.com/pavlokolodka/algorithms#permutation-algorithms)
@@ -16,7 +31,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 <br/>
 
-#### [Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity)
+#### [Computational complexity](https://github.com/pavlokolodka/algorithms#computational-complexity-1)
 
 1. [Description of the kinds of bounds on asymptotic growth rates](https://github.com/pavlokolodka/algorithms#description-of-the-kinds-of-bounds-on-asymptotic-growth-rates)
 2. [Common orders of growth](https://github.com/pavlokolodka/algorithms#common-orders-of-growth)
@@ -36,7 +51,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 ### Sorting algorithms:
 
-1. Bubble sort
+1. #### Bubble sort
 
     [#adaptive sort](https://en.wikipedia.org/wiki/Adaptive_sort)
 
@@ -45,7 +60,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 * [Simple bubble sort](https://github.com/pavlokolodka/algorithms/blob/6049bde1278de07c39310e66ff751a9f268419e2/sorting/bubblesort.js)
 * [Optimized bubble sort](https://github.com/pavlokolodka/algorithms/blob/856a3379e7138605040f304288541c32805a3b0f/sorting/bubblesort2.js)    
 
-2. Quicksort
+2. #### Quicksort
 
     [#in-place](https://en.wikipedia.org/wiki/In-place_algorithm)
 
@@ -57,7 +72,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
     
 * [Quick sorting with built-in methods](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort.js)
 * [Pure quick sorting](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort2.js)
-3. Merge sort
+3. #### Merge sort
 
     [#divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
 
@@ -68,19 +83,19 @@ The goal is to systematize and consolidate knowledge of algorithms.
 * [Merge sort](https://github.com/pavlokolodka/algorithms/blob/debf9a1ce052411377e5af28b6124bb5b23ceb78/sorting/mergesort.js)
 
 
-4. Selection sort
+4. #### Selection sort
 
    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
-5. Heapsort
+5. #### Heapsort
 
     [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
-6. Shellsort
+6. #### Shellsort
 
    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
-7. Insertion sort  
+7. #### Insertion sort  
 
     [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 ### Search algorithms:

@@ -53,6 +53,8 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 1. #### Bubble sort
 
+    ![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
+
     [#adaptive sort](https://en.wikipedia.org/wiki/Adaptive_sort)
 
     [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
@@ -61,6 +63,8 @@ The goal is to systematize and consolidate knowledge of algorithms.
 * [Optimized bubble sort](https://github.com/pavlokolodka/algorithms/blob/856a3379e7138605040f304288541c32805a3b0f/sorting/bubblesort2.js)    
 
 2. #### Quicksort
+
+    ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
 
     [#in-place](https://en.wikipedia.org/wiki/In-place_algorithm)
 
@@ -74,6 +78,8 @@ The goal is to systematize and consolidate knowledge of algorithms.
 * [Pure quick sorting](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort2.js)
 3. #### Merge sort
 
+    ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif?20151222172210)
+
     [#divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
 
     [#stable sorting](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
@@ -85,19 +91,30 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 4. #### Selection sort
 
+   ![](https://i2.wp.com/algorithms.tutorialhorizon.com/files/2019/01/Selection-Sort-Gif.gif?ssl=1)
+
    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 5. #### Heapsort
+
+    ![](https://upload.wikimedia.org/wikipedia/commons/f/fe/Heap_sort_example.gif)
 
     [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
 6. #### Shellsort
 
+   ![](https://i.makeagif.com/media/8-25-2016/mKGEkd.gif) 
+
    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
-7. #### Insertion sort  
+7. #### Insertion sort 
+
+    ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
     [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
+
+* [Insertion sort](https://github.com/pavlokolodka/algorithms/blob/98a40a5a85e90154049f96b683b53754c404e22a/sorting/insertionsort.js)
+
 ### Search algorithms:
 
 1. Binary search

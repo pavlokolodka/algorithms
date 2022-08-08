@@ -95,7 +95,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
    [#comparison-based](https://en.wikipedia.org/wiki/Comparison_sort)
 
-* [Selection sort with list structure and built-in methods]()
+* [Selection sort with list structure and built-in methods](https://github.com/pavlokolodka/algorithms/blob/bc67e75599e4b77dab1e2461c11a83e851f709a1/sorting/selectionsort.js)
 * [Pure selection sort](https://github.com/pavlokolodka/algorithms/blob/debd66b7fd241e308e8427e2377cab0da334d142/sorting/selectionsort2.js)
 
 

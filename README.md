@@ -458,3 +458,10 @@ Growth order ignores the constant factor needed for fixed operations and focuses
     </td>
     
 </table>
+
+---
+## Leetcode:
+
+
+### 1. Problem: [Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/8aeec8dcc2c65927d32430990de27b0de4dc3eb3/leetcode/pascalstriangle.js

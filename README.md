@@ -39,7 +39,10 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 <br/>
 
-#### [Leetcode]()
+#### [Leetcode](https://github.com/pavlokolodka/algorithms#leetcode-1)
+
+1. [Pascal's triangle](https://github.com/pavlokolodka/algorithms#problem-pascals-triangle)
+2. [Single number](https://github.com/pavlokolodka/algorithms#problem-single-number)
 
 <br/>
 
@@ -463,5 +466,8 @@ Growth order ignores the constant factor needed for fixed operations and focuses
 ## Leetcode:
 
 
-### 1. Problem: [Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
+### Problem: [Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/8aeec8dcc2c65927d32430990de27b0de4dc3eb3/leetcode/pascalstriangle.js
+
+### Problem: [Single number](https://leetcode.com/problems/single-number/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/526164437a75610e4f0453dfcfb2b121373001ec/leetcode/singlenumber.js

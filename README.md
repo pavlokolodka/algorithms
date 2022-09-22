@@ -43,6 +43,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 
 1. [Pascal's triangle](https://github.com/pavlokolodka/algorithms#problem-pascals-triangle)
 2. [Single number](https://github.com/pavlokolodka/algorithms#problem-single-number)
+3. [Happy number](https://github.com/pavlokolodka/algorithms#problem-happy-number)
 
 <br/>
 
@@ -471,3 +472,6 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/8aeec8dcc2c65927d32430
 
 ### Problem: [Single number](https://leetcode.com/problems/single-number/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/526164437a75610e4f0453dfcfb2b121373001ec/leetcode/singlenumber.js
+
+### Problem: [Happy number](https://leetcode.com/problems/happy-number/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/6afd702aa179f03d670671790426ac8a8021361d/leetcode/happynumber.js

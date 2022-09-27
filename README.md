@@ -44,6 +44,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 1. [Pascal's triangle](https://github.com/pavlokolodka/algorithms#problem-pascals-triangle)
 2. [Single number](https://github.com/pavlokolodka/algorithms#problem-single-number)
 3. [Happy number](https://github.com/pavlokolodka/algorithms#problem-happy-number)
+4. [Valid Palindrome](https://github.com/pavlokolodka/algorithms#problem-valid-palindrome)
 
 <br/>
 
@@ -475,3 +476,6 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/526164437a75610e4f0453
 
 ### Problem: [Happy number](https://leetcode.com/problems/happy-number/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/6afd702aa179f03d670671790426ac8a8021361d/leetcode/happynumber.js
+
+### Problem: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/915f34a7eafede3a97b0ba35b297aa03beca58f0/leetcode/validpalindrome.js

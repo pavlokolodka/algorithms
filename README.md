@@ -147,7 +147,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 ### Permutation algorithms:
 
 1. [Fisher–Yates shuffle (Knuth)](https://github.com/pavlokolodka/algorithms/blob/20d64511a7df0100743c899288a62bedb7157043/permutations/fisher%E2%80%93yates-shuffle.js)
-
+2. [Reverse](https://github.com/pavlokolodka/algorithms/blob/e599abfcb80847ed2b90b63d1ba4063f1d6a1dd5/permutations/reverse.js)
 ### Various algorithms
 
 1. [Fizz Buzz](https://github.com/pavlokolodka/algorithms/blob/3c6ea38001171683e3ce4fa70b9e227a25177e47/miscellaneous/fizzbuzz.js)

@@ -9,7 +9,7 @@
 
 /**  
 *@param {number} nums Input array
-*@returns {number} First numRows of Pascal's triangle
+*@returns {number} One unduplicated element
 */   
 const singleNumber = function(nums) {
   const hash = {};

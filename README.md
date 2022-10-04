@@ -46,6 +46,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 3. [Happy number](https://github.com/pavlokolodka/algorithms#problem-happy-number)
 4. [Valid Palindrome](https://github.com/pavlokolodka/algorithms#problem-valid-palindrome)
 5. [Valid Anagram](https://github.com/pavlokolodka/algorithms#problem-valid-anagram)
+6. [Path Sum](https://github.com/pavlokolodka/algorithms#problem-path-sum)
 
 <br/>
 
@@ -483,3 +484,6 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/915f34a7eafede3a97b0ba
 
 ### Problem: [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/48a5862b096ee35c7cdecd039059da7b71560444/leetcode/validanagram.js
+
+### Problem: [Path Sum](https://leetcode.com/problems/path-sum/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/d5e1f84ab03f371261621b8cae72714a4fc63d3f/leetcode/pathsum.js

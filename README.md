@@ -47,6 +47,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 4. [Valid Palindrome](https://github.com/pavlokolodka/algorithms#problem-valid-palindrome)
 5. [Valid Anagram](https://github.com/pavlokolodka/algorithms#problem-valid-anagram)
 6. [Path Sum](https://github.com/pavlokolodka/algorithms#problem-path-sum)
+7. [Add One Row to Tree](https://github.com/pavlokolodka/algorithms#problem-add-one-row-to-tree)
 
 <br/>
 
@@ -470,20 +471,23 @@ Growth order ignores the constant factor needed for fixed operations and focuses
 ## Leetcode:
 
 
-### Problem: [Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
+#### Problem: [Pascal's triangle](https://leetcode.com/problems/pascals-triangle/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/8aeec8dcc2c65927d32430990de27b0de4dc3eb3/leetcode/pascalstriangle.js
 
-### Problem: [Single number](https://leetcode.com/problems/single-number/)
+#### Problem: [Single number](https://leetcode.com/problems/single-number/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/526164437a75610e4f0453dfcfb2b121373001ec/leetcode/singlenumber.js
 
-### Problem: [Happy number](https://leetcode.com/problems/happy-number/)
+#### Problem: [Happy number](https://leetcode.com/problems/happy-number/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/6afd702aa179f03d670671790426ac8a8021361d/leetcode/happynumber.js
 
-### Problem: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+#### Problem: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/915f34a7eafede3a97b0ba35b297aa03beca58f0/leetcode/validpalindrome.js
 
-### Problem: [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+#### Problem: [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/48a5862b096ee35c7cdecd039059da7b71560444/leetcode/validanagram.js
 
-### Problem: [Path Sum](https://leetcode.com/problems/path-sum/)
+#### Problem: [Path Sum](https://leetcode.com/problems/path-sum/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/d5e1f84ab03f371261621b8cae72714a4fc63d3f/leetcode/pathsum.js
+
+#### Problem: [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/fcc2a140880de6a6dd32ae5183c1c6dc6b0a76a1/leetcode/addOneRowToTree.js

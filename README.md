@@ -48,6 +48,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 5. [Valid Anagram](https://github.com/pavlokolodka/algorithms#problem-valid-anagram)
 6. [Path Sum](https://github.com/pavlokolodka/algorithms#problem-path-sum)
 7. [Add One Row to Tree](https://github.com/pavlokolodka/algorithms#problem-add-one-row-to-tree)
+8. [Largest Perimeter Triangle](https://github.com/pavlokolodka/algorithms#problem-largest-perimeter-triangle)
 
 <br/>
 
@@ -491,3 +492,6 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/d5e1f84ab03f371261621b
 
 #### Problem: [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/fcc2a140880de6a6dd32ae5183c1c6dc6b0a76a1/leetcode/addOneRowToTree.js
+
+#### Problem: [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/01f9a31b8a5a1d517caf791a2ace6a807d996133/leetcode/largestPerimeterTriangle.js

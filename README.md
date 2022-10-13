@@ -49,6 +49,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 6. [Path Sum](https://github.com/pavlokolodka/algorithms#problem-path-sum)
 7. [Add One Row to Tree](https://github.com/pavlokolodka/algorithms#problem-add-one-row-to-tree)
 8. [Largest Perimeter Triangle](https://github.com/pavlokolodka/algorithms#problem-largest-perimeter-triangle)
+9. [Delete Node in a Linked List](https://github.com/pavlokolodka/algorithms#problem-delete-node-in-a-linked-list)
 
 <br/>
 
@@ -495,3 +496,6 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/fcc2a140880de6a6dd32ae
 
 #### Problem: [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/01f9a31b8a5a1d517caf791a2ace6a807d996133/leetcode/largestPerimeterTriangle.js
+
+#### Problem: [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/8104920f3dcfb7ccbeda935678cf66869d65d31c/leetcode/deleteNodeInLinkedList.js

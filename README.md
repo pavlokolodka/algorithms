@@ -50,6 +50,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 7. [Add One Row to Tree](https://github.com/pavlokolodka/algorithms#problem-add-one-row-to-tree)
 8. [Largest Perimeter Triangle](https://github.com/pavlokolodka/algorithms#problem-largest-perimeter-triangle)
 9. [Delete Node in a Linked List](https://github.com/pavlokolodka/algorithms#problem-delete-node-in-a-linked-list)
+10. [Check if the Sentence Is Pangram](https://github.com/pavlokolodka/algorithms#problem-check-if-the-sentence-is-pangram)
 
 <br/>
 
@@ -500,3 +501,6 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/01f9a31b8a5a1d517caf79
 
 #### Problem: [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/8104920f3dcfb7ccbeda935678cf66869d65d31c/leetcode/deleteNodeInLinkedList.js
+
+#### Problem: [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/13481038f34f7ee1f3e67f15e924dce65b20e55d/leetcode/%D1%81heckIfTheSentenceIsPangram.js

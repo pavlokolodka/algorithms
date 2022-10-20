@@ -51,6 +51,8 @@ The goal is to systematize and consolidate knowledge of algorithms.
 8. [Largest Perimeter Triangle](https://github.com/pavlokolodka/algorithms#problem-largest-perimeter-triangle)
 9. [Delete Node in a Linked List](https://github.com/pavlokolodka/algorithms#problem-delete-node-in-a-linked-list)
 10. [Check if the Sentence Is Pangram](https://github.com/pavlokolodka/algorithms#problem-check-if-the-sentence-is-pangram)
+11. [Integer to Roman](https://github.com/pavlokolodka/algorithms#problem-integer-to-roman)
+
 
 <br/>
 
@@ -504,3 +506,7 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/8104920f3dcfb7ccbeda93
 
 #### Problem: [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/13481038f34f7ee1f3e67f15e924dce65b20e55d/leetcode/%D1%81heckIfTheSentenceIsPangram.js
+
+#### Problem: [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/824cd492a95f58b924a6e0a2211ba2f4267b6750/leetcode/integerToRoman.js
+

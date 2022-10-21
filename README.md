@@ -52,6 +52,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
 9. [Delete Node in a Linked List](https://github.com/pavlokolodka/algorithms#problem-delete-node-in-a-linked-list)
 10. [Check if the Sentence Is Pangram](https://github.com/pavlokolodka/algorithms#problem-check-if-the-sentence-is-pangram)
 11. [Integer to Roman](https://github.com/pavlokolodka/algorithms#problem-integer-to-roman)
+11. [Contains Duplicate II](https://github.com/pavlokolodka/algorithms#problem-contains-duplicate-ii)
 
 
 <br/>
@@ -510,3 +511,5 @@ Solution: https://github.com/pavlokolodka/algorithms/blob/13481038f34f7ee1f3e67f
 #### Problem: [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 Solution: https://github.com/pavlokolodka/algorithms/blob/824cd492a95f58b924a6e0a2211ba2f4267b6750/leetcode/integerToRoman.js
 
+#### Problem: [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+Solution: https://github.com/pavlokolodka/algorithms/blob/0dc7fff9ce3ff49b906df19e9c3d01f52e7abcc9/leetcode/containDuplicateII.js

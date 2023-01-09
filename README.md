@@ -90,6 +90,7 @@ The goal is to systematize and consolidate knowledge of algorithms.
     
 * [Quick sort with built-in methods](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort.js)
 * [Pure quick sort](https://github.com/pavlokolodka/algorithms/blob/f894d71fb42f17ca30ba8d42e04ffb9a2103e4ed/sorting/quicksort2.js)
+* [Classic quick sort (Hoare partition scheme)](https://github.com/pavlokolodka/algorithms/blob/master/sorting/quicksort3.js)
 3. #### Merge sort
 
     ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif?20151222172210)

@@ -1,5 +1,6 @@
 // Title: Quicksort
-// Complexity: O(n*log(n))
+// Complexity: Time: O(n^2) - filter method O(n) + recursive function call O(n)
+//             Space: O(n^2) - we use 2 arrays O(n) + storing recursive function call frame O(n)
 // Hint: Select pivot element from the array and divide the remaining elements into two subarrays: less than pivot, pivot, and bigger than pivot
  
 /** 

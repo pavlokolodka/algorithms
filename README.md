@@ -277,7 +277,7 @@ Growth order ignores the constant factor needed for fixed operations and focuses
       O(n^2)
     </td>
     <td>
-      O(log(n))
+      O(n), optimized O(log(n))
     </td>
      <tr>
     <td>

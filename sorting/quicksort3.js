@@ -10,17 +10,15 @@
 *@param {number} right End index of an array
 *@returns {array} Sorted array
 */
-function quickSort(items, left, right) {
-    if (items.length > 1) {
+function quickSort(items, left = 0, right = items.length - 1) {
+    if (left < right) {
         let index = partition(items, left, right); 
-        
-        if (left < index - 1) { 
-            quickSort(items, left, index - 1);
-        }
-        if (index < right) { 
-            quickSort(items, index, right);
-        }
+
+        quickSort(items, left, index - 1);
+
+        quickSort(items, index, right);
     }
+
     return items;
 }
 
@@ -45,24 +43,23 @@ function swap(items, leftIndex, rightIndex){
 *@returns {number} pivot index
 */
 function partition(items, left, right) {
-    let pivot   = items[Math.floor((right + left) / 2)], 
-        i       = left,
-        j       = right; 
+    let pivot = items[Math.floor((right + left) / 2)];
 
-    while (i <= j) {
-        while (items[i] < pivot) {
-            i++;
+    while (left <= right) {
+        while (items[left] < pivot) {
+            left++;
         }
-        while (items[j] > pivot) {
-            j--;
+        while (items[right] > pivot) {
+            right--;
         }
-        if (i <= j) {
-            swap(items, i, j); 
-            i++;
-            j--;
+        if (left <= right) {
+            swap(items, left, right); 
+            left++;
+            right--;
         }
     }
     
-    return i;
+    return left;
 }
+
 

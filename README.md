@@ -205,13 +205,10 @@ Let f and g be functions from positive integers to positive integers. Then:
 
 > "Ο(f(n))" implies that as the amount of input data n increases, the running time of the algorithm will increase no faster than some constant multiplied by f(n).
 
-<br/>
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--NZrROxqO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4c3l6pys5u3v1a6s9g8.png "Big-O Complexity Chart")
-
-Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
-
+![](https://media.geeksforgeeks.org/wp-content/uploads/Analysis-of-Algorithms-little-o-omega.png "Kinds of bounds on asymptotic growth rates")
 ---
+
 ### Common orders of growth
 
 <br/>
@@ -229,6 +226,11 @@ Growth order ignores the constant factor needed for fixed operations and focuses
 |   n^3     |    cubic     |Naive multiplication of two n * n matrices|
 |   2^poly(n)| exponential |Solving matrix chain multiplication via brute-force search|
 |   n!      |    factorial |Solving the traveling salesman problem via brute-force search|
+
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--NZrROxqO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4c3l6pys5u3v1a6s9g8.png "Big-O Complexity Chart")
+
+Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
 
 ---
 

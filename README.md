@@ -403,13 +403,13 @@ Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
       Ω(n log(n))
     </td>
     <td>
-      depends on gap sequence/Θ(n(log(n))^2)
+      depends on gap sequence, in general: Θ(n(log(n))^2)
     </td>
     <td>
       depends on gap sequence: O(n(log(n))^2) or O(n^2)
     </td>
     <td>
-      O(n)
+      O(1)
     </td>
       <tr>
     <td>

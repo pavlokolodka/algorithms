@@ -320,7 +320,7 @@ Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
       Heapsort
     </td>
     <td>
-      Ω(n)
+      Ω(n log(n))
     </td>
     <td>
       Θ(n log(n))
@@ -329,7 +329,7 @@ Reference - [Big-O Cheat Sheet](https://www.bigocheatsheet.com)
       O(n log(n))
     </td>
     <td>
-      O(n)
+      O(1)
     </td>
     <tr>
     <td>

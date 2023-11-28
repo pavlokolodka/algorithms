@@ -1,5 +1,5 @@
 // Title: Quicksort (Hoare partition scheme - https://en.wikipedia.org/wiki/Quicksort#Hoare_partition_scheme)
-// Complexity: Time: O(n^2) - while loop O(n) + recursive function call O(n), but in average O(n log(n)) (with the middle element as the pivot) https://en.wikipedia.org/wiki/Quicksort#:~:text=With%20the%20middle%20element%20as%20the%20pivot%2C%20however%2C%20sorted%20data%20results%20with%20(almost)%20no%20swaps%20in%20equally%20sized%20partitions%20leading%20to%20best%20case%20behavior%20of%20Quicksort%2C%20i.e.%20O(n%20log(n))
+// Complexity: Time: O(n^2) - while loop O(n) + recursive function call O(n), but in average O(n log(n)) https://en.wikipedia.org/wiki/Quicksort#Choice_of_pivot
 //             Space: O(n) - storing recursive function call frame O(n)
 // Hint: Main aglorithm sorts a (portion of an) array, divides it into partitions, then sorts those;
 //       partition algorithm divides array into two partitions - less than pivot and greater than pivot

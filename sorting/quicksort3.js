@@ -10,56 +10,55 @@
 *@param {number} right End index of an array
 *@returns {array} Sorted array
 */
-function quickSort(items, left = 0, right = items.length - 1) {
-    if (left < right) {
-        let index = partition(items, left, right); 
-
-        quickSort(items, left, index - 1);
-
-        quickSort(items, index, right);
+function quickSort(array, left = 0, right = array.length - 1) {
+    if (left >= 0 && right >= 0 && left < right) {
+      const pivotIndex = partition(array, left, right);
+     
+      quickSort(array, left, pivotIndex);
+      quickSort(array, pivotIndex + 1, right);
     }
-
-    return items;
-}
-
-/** 
- * Swaps two elements in array
-*@param {array} items 
-*@param {number} leftIndex 
-*@param {number} rightIndex 
-*@returns {void} 
-*/
-function swap(items, leftIndex, rightIndex){
-    let temp = items[leftIndex];
+  
+    return array;
+  }
+  
+  /** 
+   * Sorted element by pivot
+  *@param {array} items 
+  *@param {number} left 
+  *@param {number} right 
+  *@returns {number} pivot index
+  */
+  function partition(array, left, right) {
+    const pivot = array[Math.floor((left + right) / 2)];
+    let i = left - 1;
+    let j = right + 1;
+    
+    while (true) {
+      do {
+          i++;
+      } while (array[i] < pivot);
+  
+      do {
+          j--;
+      } while (array[j] > pivot);
+  
+      if (i >= j) {
+        return j;
+      }
+  
+      swap(array, i, j);
+    }
+  }
+  
+  /** 
+   * Swaps two elements in array
+  *@param {array} items 
+  *@param {number} leftIndex 
+  *@param {number} rightIndex 
+  *@returns {void} 
+  */
+  function swap(items, leftIndex, rightIndex){
+    const temp = items[leftIndex];
     items[leftIndex] = items[rightIndex];
     items[rightIndex] = temp;
-}
-
-/** 
- * Sorted element by pivot
-*@param {array} items 
-*@param {number} left 
-*@param {number} right 
-*@returns {number} pivot index
-*/
-function partition(items, left, right) {
-    let pivot = items[Math.floor((right + left) / 2)];
-
-    while (left <= right) {
-        while (items[left] < pivot) {
-            left++;
-        }
-        while (items[right] > pivot) {
-            right--;
-        }
-        if (left <= right) {
-            swap(items, left, right); 
-            left++;
-            right--;
-        }
-    }
-    
-    return left;
-}
-
-
+  }
